@@ -1,7 +1,8 @@
 # Added text and a function
-def test():
-    pass
-    
+def plugg():
+    print("Kanske eventuellt börjar att förstå lite")
+    print("Hur går det för er?")
+
 def game():
     print("Starting")
     for i in range(0, 10, 1):
